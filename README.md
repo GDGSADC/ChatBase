@@ -1,2 +1,0 @@
-# ChatBase
-Firebase Chat
